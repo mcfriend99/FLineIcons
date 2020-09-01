@@ -9,3 +9,7 @@
 ## [0.0.3] - September 1, 2020.
 
 * Fixed README documentation for the package.
+
+## [0.0.4] - September 1, 2020.
+
+* Fixed missing font declaration in pubsec
