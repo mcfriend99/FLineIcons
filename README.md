@@ -18,7 +18,7 @@ Simply include the `flineicons` in your `pubsec.yaml`
 dependencies:
   flutter:
     sdk: flutter
-  flineicons: ^0.0.1
+  flineicons: ^0.0.3
 ```
 
 Then run the `flutter packages get` command (some IDE's such as IntelliJ will prompt you to do this or do it for you automatically).
