@@ -6,6 +6,7 @@ class FLineIconsData extends IconData {
       : super(
           codePoint,
           fontFamily: 'FLineIcons',
+          fontPackage: 'flineicons',
         );
 }
 
