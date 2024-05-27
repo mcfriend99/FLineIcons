@@ -5,7 +5,7 @@ homepage: https://github.com/mcfriend99/FLineIcons
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
