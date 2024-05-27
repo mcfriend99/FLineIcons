@@ -17,3 +17,7 @@
 ## [0.0.5] - September 1, 2020.
 
 * Fixed missing missing fontPackage option
+
+## [0.0.6] - May 27, 2024.
+
+* Upgraded for Dart 3 support
